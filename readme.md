@@ -14,7 +14,11 @@
 
 ###
 
-<div align="center">
+<h2 align="left">What I am currently listening to</h2>
+
+###
+
+<div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=4lex030&count=5" alt="Spotify recently played"  />
 </div>
 
