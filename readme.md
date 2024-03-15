@@ -14,9 +14,9 @@
 
 ###
 
-<div align="center">
+
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4lex030&count={count})
-</div>
+
 
 ###
 
