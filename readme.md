@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022!<br>📚 I'm currently learning Node.js as a backend and server language<br>🎯 Goals: Improve, learn and get to know new people<br>🎲 Fun fact: I love sailing!</p>
+<p align="left">✨ Creating bugs since 2022!<br>📚 I'm currently learning network programming and cybersecurity<br>🎯 Goals: Improve, learn and get to know new people<br>🎲 Fun fact: I love sailing!</p>
 
 ###
 
